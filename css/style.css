@@ -1,5 +1,4 @@
 header{
-    border: 3px solid grey;
+    height: 300px
+    backgroun: var(--color-primary)
 }
-.top-header{background: lightblue}
-.botom-header{background: lightcoral}

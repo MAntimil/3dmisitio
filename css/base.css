@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+:root{
+    --color-primary:#8B4513;
+    --color-secondary:#808080;
+    --color-accent: #008000;
+    --colot-complement: #f8ba49;
+    --color-light: #FAFAFA;
+    --color-dark: #1e1e1e;
+    --font-primary:"Fascinate", system-ui;
+    --font-secundary:"Fascinate", system-ui;;
+}
